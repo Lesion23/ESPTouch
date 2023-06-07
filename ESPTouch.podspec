@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ESPTouch'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = 'Cocoapod framework for ESPTouch iOS code with deprecations fixed and warnings removed.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Lesion23' => 'lesionxue@gmail.com' }
-  s.source           = { :git => 'https://github.com/Lesion23/ESPTouch.git', :tag => 0.0.2 }
+  s.source           = { :git => 'https://github.com/Lesion23/ESPTouch.git', :tag => '0.0.3' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
