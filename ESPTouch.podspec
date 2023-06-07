@@ -7,7 +7,7 @@ spec.license    = { :type => 'MIT' }
 spec.homepage   = 'https://github.com/Lesion23/ESPTouch'
 spec.authors    = { 'Lesion23' => 'lesionxue@gmail.com' }
 spec.summary    = 'Cocoapod framework for ESPTouch iOS code with deprecations fixed and warnings removed.'
-spec.source     = { :git => 'https://github.com/Lesion23/ESPTouch.git', :tag => 'v2.0.1'}
+spec.source     = { :git => 'https://github.com/Lesion23/ESPTouch.git', :tag => '2.0.1'}
 spec.source_files = 'ESPTouch/*.{h,m}', 'ESPTouch/**/*.{h,m}'
 spec.framework    = 'SystemConfiguration'
 spec.ios.framework  = 'UIKit'
