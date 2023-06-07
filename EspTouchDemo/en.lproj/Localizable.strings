@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  EspTouchDemo
+
+  Created by AE on 2020/3/21.
+  Copyright © 2020 Espressif. All rights reserved.
+*/
+
+"EspTouch-Main-Title" = "Main";
+"EspTouch-Title" = "EspTouch";
+"EspTouch-confirm" = "Confirm";
+"EspTouch-cancel" = "Cancel";
+"EspTouch-result-one" = "has connected the Wi-Fi";
+"EspTouch-result-title" = "Execute Result";
+"EspTouch-more-results-message" = "\nthere's %lu more result(s) without showing\n";
+"EspTouch-no-results-message" = "Not found any devices";
+"EspTouch-ok" = "OK";
+"EspTouch-location-title" = "Location service is down";
+"EspTouch-location-content" = "You need to open the location permission to get Wi Fi information. Please go to settings - > Privacy - > location service to open the [esptouch] location service";
+"EspTouch-cancel" = "cancel";
+"EspTouch-set" = "Set up";
+
+"EspTouchV2-Title" = "EspTouch V2";
+"EspTouchV2-SSID" = "SSID:";
+"EspTouchV2-BSSID" = "BSSID:";
+"EspTouchV2-Password" = "Password:";
+"EspTouchV2-deviceCount" = "Device Count:";
+"EspTouchV2-AES-Key" = "AES Key:";
+"EspTouchV2-Custom-Data" = "Custom Data:";
+"EspTouchV2-confirm" = "Confirm";
+"EspTouchV2-no-wifi-message" = "No Wi-Fi connection";
+"EspTouchV2-custom-data-length-message" = "Custom data can't over than 64 bytes";
+
+"EspProvision-Titile" = "EspProvision";
+"EspProvision-stop" = "Stop";
+"EspProvision-exception-message" = "Some exception have occured";
+"EspProvision-no-result-message" = "Not found any devices";
